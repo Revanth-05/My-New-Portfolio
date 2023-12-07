@@ -414,7 +414,7 @@
 }
 .about-content .detail {
   width: 65%;
-  text-align: justify;
+  text-align: start;
   overflow: hidden;
   margin: 5px;
   color: #fff;
