@@ -175,7 +175,7 @@
 .home-page {
   background: #111;
   height: 100vh;
-  text-align: justify;
+  text-align: start;
   display: flex;
   /* min-height: 500px; */
 }
