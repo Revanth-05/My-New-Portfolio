@@ -116,9 +116,9 @@ $(document).ready(function () {
     .type("Entrepreneur", { delay: 400 })
     .pause(500)
     .delete(13)
-    .type("Programmer", { delay: 400 })
+    .type("Ex SDE Intern @ McCarthy - The AI Marketplace", { delay: 400 })
     .pause(500)
-    .delete(11)
+    .delete(46)
     .go();
   
   // -------Typing Effect script Ends------------
